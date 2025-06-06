@@ -66,6 +66,9 @@ Exit Choose an option: 1
 
 Current Stock Market Data: 
 AAPL: $149.45 
+
 GOOGL: $2795.23 
+
 AMZN: $3399.89 
+
 MSFT: $291.12
